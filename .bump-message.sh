@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "version dump: $(cat .release-version)"
+echo "version bumped: $(cat .release-version)"
