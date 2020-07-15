@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Version : 1.0.3
+
+- fix: message : See merge request getto-systems-base/labo/content-delivery/aws-lambda-edge!10
+- fix: gitlab ci : See merge request getto-systems-base/labo/content-delivery/aws-lambda-edge!9
+
+
 ## Version : 1.0.2
 
 
